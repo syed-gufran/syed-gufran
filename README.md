@@ -25,6 +25,9 @@
 ---
 ## 📬 Connect with Me
 <p align="center">
+  <a href="mailto:tazeema07@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" style="margin-right:10px;" />
+  </a>
   <a href="https://linkedin.com/in/tazeem-abbas" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="margin-right:10px;" />
   </a>
