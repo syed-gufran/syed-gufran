@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-gufran&label=Profile%20views&color=0e75b6&style=flat" alt="syed-gufran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syed-gufran" alt="syed-gufran" /></a> </p>
+
+# 💫 About Me:
 
 - 🔭 I’m currently working on **on building my skills**
 
@@ -16,6 +17,13 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/12XfUGlkQgAubrAWjM0oPil4aw0S63-UY?q=sharedwith:public%20parent:12XfUGlkQgAubrAWjM0oPil4aw0S63-UY](https://drive.google.com/drive/folders/12XfUGlkQgAubrAWjM0oPil4aw0S63-UY?q=sharedwith:public%20parent:12XfUGlkQgAubrAWjM0oPil4aw0S63-UY)
 
 - ⚡ Fun fact **I talk to my code like it’s a person… and it still ignores me. 🥸**
+
+  ### ✍️  Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=syed-gufran&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,19 +42,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syed-gufran&" alt="syed-gufran" /></p>
 
-# 💫 About Me:
-- 🔭 I’m currently working on **on building my skills**<br><br>- 🌱 I’m currently learning **Large Language Models**<br><br>- 🤝 I’m looking for help with **new projects**<br><br>- 📫 How to reach me **tazeema07@gmail.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/drive/folders/12XfUGlkQgAubrAWjM0oPil4aw0S63-UY?q=sharedwith:public%20parent:12XfUGlkQgAubrAWjM0oPil4aw0S63-UY](https://drive.google.com/drive/folders/12XfUGlkQgAubrAWjM0oPil4aw0S63-UY?q=sharedwith:public%20parent:12XfUGlkQgAubrAWjM0oPil4aw0S63-UY)<br><br>- ⚡ Fun fact **I talk to my code like it’s a person… and it still ignores me. 🥸**
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syed-gufran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=syed-gufran&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-gufran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=syed-gufran&theme=default_repocard&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=syed-gufran&limit=5&theme=dark&combine_all_yearly_contributions=true)
