@@ -28,7 +28,7 @@
 ---
 
 ## 📬 Connect with Me
-<p>
+<p align="center">
   <a href="https://linkedin.com/in/tazeem-abbas" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
@@ -46,28 +46,27 @@
 ---
 
 ## 🛠 Languages & Tools
-<p>
+<p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" height="40" />
   
   <!-- ML / Data -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" />
   
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" />
   
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=bootstrap,react,flutter,docker,git,gcp,figma" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,flutter,docker,git,gcp,figma" height="40" />
   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p>
