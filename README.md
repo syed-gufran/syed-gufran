@@ -26,18 +26,19 @@
 ## 📬 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/tazeem-abbas" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="vertical-align:middle; margin-right:10px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://kaggle.com/tazeemabbas" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://instagram.com/tazeem.abbas.140" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" style="vertical-align:middle; margin-right:10px;" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" style="margin-right:10px;" />
   </a>
   <a href="https://www.leetcode.com/syed_gufran_hussain" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" style="vertical-align:middle;" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40" />
   </a>
 </p>
+
 
 ---
 ## 🛠 Languages & Tools
