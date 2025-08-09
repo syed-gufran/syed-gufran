@@ -26,25 +26,23 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=syed-gufran&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
-## 📬 Connect with Me
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/tazeem-abbas" target="_blank">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://kaggle.com/tazeemabbas" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" />
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://instagram.com/tazeem.abbas.140" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-  <a href="https://www.leetcode.com/syed_gufran_hussain" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
+  <a href="mailto:youremail@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
 ---
-
 ## 🛠 Languages & Tools
 <p align="center">
   <!-- Languages -->
